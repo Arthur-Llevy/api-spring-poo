@@ -27,7 +27,7 @@ Este é um sistema de gerenciamento de veículos desenvolvido em Spring Boot que
 
 1. **Clone o repositório**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Arthur-Llevy/api-spring-poo
 cd projeto-poo-pi3-grupo-3
 ```
 
