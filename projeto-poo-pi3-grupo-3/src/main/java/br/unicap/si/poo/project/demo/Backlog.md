@@ -1,0 +1,3 @@
+- [ ] Tratameto de exceções personalizadas
+- [ ] Colocar relacionamentos
+- [ ] Colocar enums onde é válido
